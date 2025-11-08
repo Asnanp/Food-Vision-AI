@@ -46,25 +46,6 @@
 
 ---
 
-## 🎬 Demo
-
-### Food Detection
-![Detection Demo](<img width="2676" height="889" alt="gradcam_visualization" src="https://github.com/user-attachments/assets/e650001b-dd77-440d-8943-134f863a437a" />
-)
----
-
-## 📊 Performance Metrics
-
-| Metric | Score | Benchmark |
-|--------|-------|-----------|
-| **Top-1 Accuracy** | **81.10%** | 75-80% |
-| **Top-5 Accuracy** | **95.64%** | 90-95% |
-| **Inference Time (CPU)** | <500ms | <1000ms |
-| **Model Size** | 17MB | <50MB |
-| **Training Time** | 7.5 hours | - |
-
----
-
 ## 🏗️ Architecture
 
 ```
