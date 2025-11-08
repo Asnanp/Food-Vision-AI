@@ -7,7 +7,7 @@
 
 > **An advanced AI-powered food recognition system that identifies 101 different food types with 81.10% accuracy, complete with nutrition information, health ratings, and explainable AI visualizations.**
 
-🔗 **[Live Demo](https://huggingface.co/spaces/asnanp1/food-ai-detector)** | 📊 **[Dataset]([https://www.kaggle.com/datasets/dansbecker/food-101](https://www.kaggle.com/datasets/kmader/food41))**
+🔗 **[Live Demo](https://huggingface.co/spaces/asnanp1/food-ai-detector)** | 📊 **[Dataset](https://www.kaggle.com/datasets/kmader/food41))**
 
 
 ---
