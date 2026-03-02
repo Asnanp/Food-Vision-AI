@@ -416,7 +416,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Your Name** - [Instagram](https://instagram.com/asnannp) - asnanp875@gmail.com
+**Asnan P** - [Instagram](https://instagram.com/asnannp) - asnanp875@gmail.com
 
 **Project Link:** [https://github.com/AsnanP/food-vision-ai](https://github.com/Asnanp/food-vision-ai)
 
